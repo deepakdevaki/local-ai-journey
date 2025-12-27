@@ -1,0 +1,2 @@
+This is your knowledge base.
+Add more .txt files to teach your AI agent!
